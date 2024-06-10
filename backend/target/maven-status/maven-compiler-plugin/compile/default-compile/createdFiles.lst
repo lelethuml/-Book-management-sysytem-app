@@ -1,0 +1,6 @@
+com\example\book_management\BookManagementApplication.class
+com\example\book_management\enntity\Book.class
+com\example\book_management\resolver\BookMutationResolver.class
+com\example\book_management\resolver\BookQueryResolver.class
+com\example\book_management\service\BookService.class
+com\example\book_management\repository\BookRepository.class

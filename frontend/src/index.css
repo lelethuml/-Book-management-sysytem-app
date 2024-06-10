@@ -1,0 +1,12 @@
+/* Add your global CSS styling here */
+body {
+  padding-top: 56px;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.container {
+  max-width: 800px;
+}
